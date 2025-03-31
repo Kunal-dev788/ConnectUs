@@ -45,8 +45,8 @@ Before running this app, make sure you have the following installed:
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-username/video-calling-meeting-app.git
-    cd video-calling-meeting-app
+    git clone https://github.com/Kunal-dev788/ConnectUs.git
+    cd ConnectUs
     ```
 
 2. **Open the project in Android Studio**.
@@ -99,7 +99,7 @@ Here are some screenshots of the app:
 
 You can view the demo video of the app in action here:
 
-- [demo.webm](https://github.com/user-attachments/assets/b68a5e86-1aa2-4e63-b3ab-cf5a539cd135)
+[demo.webm](https://github.com/user-attachments/assets/84d8b143-9062-4d25-9757-aee81070a90c)
 
 ---
 
