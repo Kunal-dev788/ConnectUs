@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "404914046573",
+    "project_id": "connectus-7cada",
+    "storage_bucket": "connectus-7cada.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404914046573:android:9932a325043396b7f72164",
+        "android_client_info": {
+          "package_name": "com.helloapps.connectus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABpWUeRSDIlks8WOApcRDzanc021esNJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
